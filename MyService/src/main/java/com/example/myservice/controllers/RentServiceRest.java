@@ -14,7 +14,7 @@ public class RentServiceRest {
 
     @GetMapping("/")
     public String sayHello(){
-        return "Hello";
+        return "Nerver forget never forgiv";
     }
 
     @PostMapping("/cars")
